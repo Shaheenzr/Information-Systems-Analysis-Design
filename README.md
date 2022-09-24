@@ -1,4 +1,4 @@
-RAINBOW GROCERIES - Smart Cart Implementation, 
+RAINBOW GROCERIES - Smart Cart Implementation
 Problem Statement : Long wait in queues at supermarkets that lead to lost sales and poor customer experience
 High operating costs for payment transactions, Current Automated checkout systems are cumbersome
 
