@@ -1,4 +1,3 @@
-# Information-Systems-Analysis-Design
 RAINBOW GROCERIES - Smart Cart Implementation
 
 Problem Statement : Long wait in queues at supermarkets that lead to lost sales and poor customer experience
